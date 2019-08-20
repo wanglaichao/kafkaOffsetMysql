@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="kakfa-consumer-1.1.1">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\fanliprojects\local\kakfa-consumer-1.1.1\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="kafka-consumer-1.1.1">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\fanliprojects\local\kafka-consumer-1.1.1\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
